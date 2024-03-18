@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>
-			HAO
+			QED Rentals
 		</title>
 		<meta name="description" content="Latest updates and statistic charts">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -66,7 +66,7 @@
 							<div class="m-stack m-stack--ver m-stack--general" >
 								<div class="m-stack__item m-stack__item--middle m-brand__logo" >
 									<a class="m-brand__logo-wrapper text" style="color:white;margin:0 0 0 40px !important; ">
-										<h5 > HAO  </h5>
+										<h5 > QED   </h5>
 									</a>
 								</div>
 								<div class="m-stack__item m-stack__item--middle m-brand__tools" >
@@ -76,7 +76,7 @@
 									</a>
 									<!-- END -->
 									<!-- BEGIN: Responsive Aside Left Menu Toggler -->
-									<a href="javascript:;" id="m_aside_left_offcanvas_toggle" class="m-brand__icon m-brand__toggler m-brand__toggler--left m--visible-tablet-and-mobile-inline-block" style="background-color: #fff !important; padding: 5px !importnat;">
+									<a href="javascript:;" id="m_aside_left_offcanvas_toggle" class="m-brand__icon m-brand__toggler m-brand__toggler--left m--visible-tablet-and-mobile-inline-block" style="background-color: #fff !important; padding: 5px !important;">
 										<span ></span>
 									</a>
 									<!-- END -->
